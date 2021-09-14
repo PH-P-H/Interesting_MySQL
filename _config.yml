@@ -1,12 +1,13 @@
 title: Interesting MySQL
-description: Just another documentation theme compatible with GitHub Pages
+lang: en
+description: Huang Peng's MySQL learning notes.
 
-theme: jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 
-# debug:
-#   compress: true
-#   dist: false
-#   shortcodes: true
+debug:
+  compress: true
+  dist: false
+  shortcodes: true
 
 readme_index:
   with_frontmatter: true

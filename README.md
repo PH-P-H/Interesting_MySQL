@@ -1,6 +1,6 @@
 # Interesting MySQL 
 
-##### "My"SQL learning notes
+#### "My"SQL learning notes
 
 When I first encountered structured query language, I thought it is difficult. Everything seems so rigid, and there are 
 so many restrictions. But as I wrote more and more MySQL, things became interesting. By writing queries, I can turn massive 
@@ -14,4 +14,6 @@ treasure here.
 _I'm still a MySQL learner. The information presented here is not guaranteed to be correct nor accurate, please use at your 
 own risk._
 
-**Need to add link to notes and problems**
+[`Check notes first`](./notes) <br>
+
+[`Solve problems first`](./problems)
